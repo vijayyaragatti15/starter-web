@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vijay Yaragatti	vijayry111@gmail.com
 
 # THANKS
 
