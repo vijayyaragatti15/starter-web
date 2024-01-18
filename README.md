@@ -1,6 +1,10 @@
 # Starter Web Project
 
+<<<<<<< HEAD
 Adding a line for rebasing ex
+=======
+Adding a line for rebasing ex, then more changes from myfeature branch too. 
+>>>>>>> myfeature
 
 ## Introduction
 
