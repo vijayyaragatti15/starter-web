@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Adding a line for rebasing ex 
+Adding a line for rebasing ex
 
 ## Introduction
 
