@@ -1,6 +1,7 @@
 # Starter Web Project
 
 <<<<<<< HEAD
+Updating for emergency fix after stashing.
 Adding a line for rebasing ex
 =======
 Adding a line for rebasing ex, then more changes from myfeature branch too. 
